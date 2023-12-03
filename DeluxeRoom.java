@@ -10,7 +10,7 @@ public class DeluxeRoom implements Room{
 
     @Override
     public String getDescription() {
-        return RoomType.DOUBLE.getDescription();
+        return RoomType.DELUXE.getDescription();
     }
 
     @Override
